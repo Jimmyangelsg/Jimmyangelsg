@@ -31,7 +31,7 @@ Aquí, todo se trata de aprender y de explorar, y me encontrarás experimentando
 ---
 
 ## 📫 ¿Hablamos?
-Si alguna vez necesitas ayuda, ideas, o solo quieres charlar de videojuegos retro o de data analytics, ¡aquí estoy! Puedes encontrarme en [LinkedIn]([https://www.linkedin.com/jimmyangel18/]) o simplemente enviarme un correo a: **jimmyangel18@gmail.com**
+Si alguna vez necesitas ayuda, ideas, o solo quieres charlar de videojuegos retro o de data analytics, ¡aquí estoy! Puedes encontrarme en [LinkedIn]([https://www.linkedin.com/][https://www.linkedin.com/in/jimmyangel18/]) o simplemente enviarme un correo a: **jimmyangel18@gmail.com**
 
 ---
 
