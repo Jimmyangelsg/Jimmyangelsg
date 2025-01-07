@@ -5,9 +5,8 @@ Bienvenidos a mi rincón en GitHub, donde los proyectos se encuentran con una bu
 ---
 
 ## 🌌 Sobre mí
-- 🛠️ **Ingeniero Eléctrico caminando en el mundo de QA, Front-end, Data e IA** - porque todo es curiosidad y datos.
-- 🎮 **Gamer casual** y entusiasta de los videojuegos desde los modernos a los retro (¡los clásicos nunca pasan de moda!).
-- 🌍 Ubicado actualmente en el mundo de la instrumentación y control ⚙️. Argentina.
+- 🛠️ **Ingeniero caminando en el mundo de QA, Front-end, Data e IA** - porque todo es curiosidad y datos.
+- 🎮 **Gamer casual**
 
 ---
 
@@ -22,11 +21,6 @@ Aquí, todo se trata de aprender y de explorar, y me encontrarás experimentando
 
 ## 🎯 Objetivos
 ¿La meta? Contribuir a proyectos donde pueda combinar mi conocimiento en ingeniería con la habilidad de analizar, probar, y mejorar cada detalle para que el software y los sistemas sean lo que se espera! el apagón es el límite😄.
-
----
-
-## 🤹‍♂️ Curiosidad
-- 🎲 Puedo dar consejos de póker y casi asegurar una buena mano (¡pero yo tengo mala suerte!).
 
 ---
 
