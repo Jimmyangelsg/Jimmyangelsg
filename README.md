@@ -5,7 +5,7 @@ Bienvenidos a mi rincón en GitHub, donde los proyectos se encuentran con una bu
 ---
 
 ## 🌌 Sobre mí
-- 🛠️ **Ingeniero caminando en el mundo de QA, Front-end, Data e IA** - porque todo es curiosidad y datos.
+- 🛠️ **Ingeniero eléctrico en el mundo de QA, Front-end, Data e IA** - 
 - 🎮 **Gamer casual**
 
 ---
